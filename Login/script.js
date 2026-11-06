@@ -1,0 +1,1 @@
+alert("Sejam bem vindos ao Curso de JavaScript - Fessor Mauricio!")
